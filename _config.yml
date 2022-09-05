@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Sai Srinivas Reddy Welcomes you!
+description: Data Science Enthusiast
+navbar:
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png\" />"
