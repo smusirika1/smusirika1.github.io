@@ -37,6 +37,6 @@ Created 11 notebooks to help data science enthusiast covering Python Foundations
 ***
 
 # Contact
-<p> Phone number: <a href="tel:+919666651610">9666651610</a></p>
-<p> Mail: <a href="mailto:musirikasrinivas@gmail.com">musirikasrinivas@gmail.com</a></p>
-LinkedIn: [Sai Srinivas Reddy](https://www.linkedin.com/in/musirikasrinivas/)
+<p> Phone number: <a href="tel:+919666651610">3182157273</a></p>
+<p> Mail: <a href="mailto:musirikasrinivas@gmail.com">saisrinivasrm@gmail.com</a></p>
+LinkedIn: [Sai Srinivas Reddy](https://www.linkedin.com/in/saisrm/)
