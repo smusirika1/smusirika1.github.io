@@ -1,5 +1,5 @@
 
-<span style="color:black">Hello, I'm Sai Srinivas Reddy, A graduate Computer Science graduate at Lamar University who is a passionate data scientist and loves to solve real-world data science problems especially in the fields of `` computer vision ``using deep learning. I have experience on different python libraries like `` BeautifulSoup ``, `` Numpy ``, `` Pandas``,`` Matplotlib ``, `` scikit-learn ``, `` Pytorch ``,`` keras ``, `` opencv ``etc.</span> 
+<span style="color:black">Hello, I'm Sai Srinivas Reddy, A Computer Science graduate from Lamar University who is a passionate data scientist and loves to solve real-world data science problems, especially in the fields of `` computer vision ``using deep learning. I have experience on different python libraries like `` BeautifulSoup ``, `` Numpy ``, `` Pandas``,`` Matplotlib ``, `` Scikit-learn ``, `` Pytorch ``,`` Keras ``, `` OpenCV ``etc and also on `` Azure Databricks `` </span> 
 
 ***
 
@@ -16,23 +16,32 @@ I have completed `` 55 `` courses and `` 10 `` tracks in the [DataCamp](https://
 
 # Projects
  
-## [__Web Scraping DataCamp Website__](https://github.com/musirikasrinivas/Web-Scraping-DC):
- Design and developed python code to download all videos, pdf, data files and markdown by one click rather than using hundreds of clicks from DataCamp including dynamic content using selenium.
+## Web Scraping DataCamp Website [[LINK]](https://github.com/musirikasrinivas/Data_Camp_Plus-DSP):
+ Implemented python code to download all videos, pdf, data files and markdown by one click rather than using hundreds of
+ clicks from DataCamp including dynamic content using selenium.
+ <br>
  
-## [__Data Visualization (Bar Chart Racing)__](https://github.com/musirikasrinivas/Data-Visualization/blob/master/batting.ipynb):
-Design and developed data visualization for ICC ODI /Test/ T20 performance on batting, bowling and fielding.
-<br>
-Here is one of the visualizations: [T20 Runs](https://preview.flourish.studio/1625120/VRcyJSXkDuSHGZ1m0mJbr9bKN1Jk48XwdS6IMxQaCLMgPirAGDh7ilOCPg_Qb726/)
+ **Libraries:** `` urllib ``, `` Requests ``, `` bs4(BeautifulSoup) ``, `` Selenium ``, `` re(Regular Expressions) ``
+ 
+## Data Visualization (Bar Chart Racing) [[LINK]](https://flourish-user-preview.com/641778/rQzafjQRqfMCkaSQ4EJjT3PX-FlWd9LPk4j_IwQk5nOnE3WMERHa77GKnlwaSaUj/):
+Generated insights by visualizing the data for ICC ODI /Test/ T20 performance on batting, bowling, and fielding. Scraped the data from the
+ESPN website and used pandas for data cleaning and manipulation for desired CSV files for a flourish visualization tool.
+ <br>
+ 
+ **Libraries & Tools:**  `` Numpy ``, `` Pandas ``, `` Matplotlib ``, `` Seaborn ``, `` urllib ``, `` Requests ``, `` bs4(BeautifulSoup) ``, `` re(Regular Expressions) ``, `` Flourish tool ``
 
-## [__Data Science in Python - Notebooks__]( https://github.com/musirikasrinivas/Data_Camp_Plus-DSP):
-Created 11 notebooks to help data science enthusiast covering Python Foundations, Pandas, Matplotlib, NumPy etc., 
+## Check Truncation System [[LINK]]( https://github.com/musirikasrinivas/CTS):
+Detection of MICR code in a check using pytesseract OCR library in python. 
+<br>
+
+**Libraries:** `` Numpy ``, `` OpenCV ``, `` Pillow ``, `` Matplotlib ``, `` Pytesseract ``
 
 ***
 
 # Resume
-![image](https://user-images.githubusercontent.com/43592400/90400875-c876f700-e0ba-11ea-9192-4dd3b1abfea3.png)
+![image](https://user-images.githubusercontent.com/112902111/209199750-36ec9404-164e-4cf2-b19d-8db6cd4fc682.jpg)
 <br>
-<a href="https://drive.google.com/file/d/15xCI65V7h_L1Qp0EkSr5zuKrS15OrLZw/view?usp=sharing" download="sai srinivas reddy">Download</a>
+<a href="https://drive.google.com/file/d/16o_6asd1xILIe7yQlskoK3mLDOfH-jpK/view?usp=share_link">Download</a>
 
 ***
 
