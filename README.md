@@ -1,12 +1,13 @@
 
-<span style="color:black">Hello, I'm Sai Srinivas Reddy, A Computer Science graduate from Lamar University who is a passionate data scientist and loves to solve real-world data science problems, especially in the fields of `` computer vision ``using deep learning. I have experience on different python libraries like `` BeautifulSoup ``, `` Numpy ``, `` Pandas``,`` Matplotlib ``, `` Scikit-learn ``, `` Pytorch ``,`` Keras ``, `` OpenCV ``etc and also on `` Azure Databricks `` </span> 
+<span style="color:black">Hello, I'm Sai Srinivas Reddy, a computer science graduate with a master’s degree from Lamar University Beaumont, USA, where I developed expertise in Analysis of Algorithms, Big Data Systems, Cloud Computing, and Engineering Database Design. I also have a bachelor’s degree in Computer Science from St. Martin’s Engineering College in Hyderabad, India where I learned about Operating Systems, Data Structures, Python Programming, Data Mining, and Modern Software Engineering. My technical skills include proficiency in languages such as `` Python `` and `` SQL ``, and expertise in data science frameworks such as `` Scikit-learn ``, `` Pytorch ``, `` fastai ``, `` TensorFlow ``, `` Keras ``, and `` Django ``. I am also familiar with tools like `` Azure Databricks ``, `` AWS SageMaker ``, `` Jupyter ``, `` GIT ``, `` MySQL ``, and `` SQLite ``. My areas of interest include Data Science, Computer Vision, and Image Processing. </span> 
 
 ***
 
 # Online Courses - [My DataCamp Profile](https://www.datacamp.com/profile/musirikasrinivas)
 ![image](https://user-images.githubusercontent.com/43592400/95502107-f1cf4780-09c6-11eb-9acd-d4791bf1e492.png)
 <br>
-I have completed `` 55 `` courses and `` 10 `` tracks in the [DataCamp](https://www.datacamp.com) which is one of the most comprehensive online learning resource for data science and analytics. In this courses, I learned from the python basics to building complex neural networks using deep learning libraries keras and pytorch. I have completed the following tracks in DataCamp.
+I have also pursued online courses in Data Science and Machine Learning from [DataCamp](https://www.datacamp.com), where I learned to import, clean, manipulate, and visualize data using popular libraries like `` pandas ``, `` NumPy ``, `` Matplotlib ``, `` Seaborn ``, and `` Scikit-learn ``. In addition, I gained knowledge of prepossessing techniques, feature engineering, model selection, model validation, hyper-parameter tuning, and transfer learning through the Machine Learning Scientist with Python track. I have also explored working with text data using `` NLTK `` and `` SpaCy `` and image data using `` Keras ``, as well as implementing distributed data management and machine learning with `` PySpark ``.
+
  1. [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/8f00b280fb3e58e3c3f5767540e856c77fe8d561) 
  2. [Machine Learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/a168be35c42955d39bc5ff6da1289a9bef0f57a2)
  3. [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/97a2fc0739155879707348c8e7d716b10bb004f9)
@@ -17,21 +18,20 @@ I have completed `` 55 `` courses and `` 10 `` tracks in the [DataCamp](https://
 # Projects
  
 ## Web Scraping DataCamp Website [[LINK]](https://github.com/musirikasrinivas/Data_Camp_Plus-DSP):
- Implemented python code to download all videos, pdf, data files and markdown by one click rather than using hundreds of
- clicks from DataCamp including dynamic content using selenium.
+The project was focused on designing and developing a content management system for data science learning. The team utilized Google Cloud Platform (GCP) virtual machine instances to create a JupyterHub environment, which was then integrated with Canvas LMS and its Learning Tools Interoperability (LTI) features.
  <br>
  
  **Libraries:** `` urllib ``, `` Requests ``, `` bs4(BeautifulSoup) ``, `` Selenium ``, `` re(Regular Expressions) ``
  
 ## Data Visualization (Bar Chart Racing) [[LINK]](https://flourish-user-preview.com/641778/rQzafjQRqfMCkaSQ4EJjT3PX-FlWd9LPk4j_IwQk5nOnE3WMERHa77GKnlwaSaUj/):
-Generated insights by visualizing the data for ICC ODI /Test/ T20 performance on batting, bowling, and fielding. Scraped the data from the
-ESPN website and used pandas for data cleaning and manipulation for desired CSV files for a flourish visualization tool.
+This project aimed at generating code to extract raw data from various sources related to the performance of ICC ODI, Test, and T20 cricket matches. The data was collected by scraping the ESPN website and further cleaned and manipulated using pandas for generating the desired CSV files. These CSV files were then used for visualizing the data through a flourish visualization tool. The visualizations were in the form of racing bar charts that helped to gain insights into the performance of the teams in batting, bowling, and fielding. The project was successful in presenting the performance data in a meaningful and easy-to-understand format, providing valuable insights into the performance of the teams.
  <br>
  
  **Libraries & Tools:**  `` Numpy ``, `` Pandas ``, `` Matplotlib ``, `` Seaborn ``, `` urllib ``, `` Requests ``, `` bs4(BeautifulSoup) ``, `` re(Regular Expressions) ``, `` Flourish tool ``
 
 ## Check Truncation System [[LINK]]( https://github.com/musirikasrinivas/CTS):
-Detection of MICR code in a check using pytesseract OCR library in python. 
+The project aimed at automating the check truncation process in the banking industry. The focus was on developing a system that can accurately detect the Magnetic Ink Character Recognition (MICR) code and segment the handwritten text present on checks. The Check Truncation System (CTS) was designed and developed to achieve this objective. The project involved the use of advanced image processing techniques and machine learning algorithms to detect and extract the required information from the scanned images of checks. The successful implementation of the CTS is expected to bring efficiency and accuracy in the check truncation process, saving time and reducing manual errors.
+
 <br>
 
 **Libraries:** `` Numpy ``, `` OpenCV ``, `` Pillow ``, `` Matplotlib ``, `` Pytesseract ``
