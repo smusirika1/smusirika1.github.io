@@ -2,6 +2,9 @@
 <span style="color:black">Hello, I'm Sai Srinivas Reddy, a computer science graduate with a master’s degree from Lamar University Beaumont, USA, where I developed expertise in Analysis of Algorithms, Big Data Systems, Cloud Computing, and Engineering Database Design. I also have a bachelor’s degree in Computer Science from St. Martin’s Engineering College in Hyderabad, India where I learned about Operating Systems, Data Structures, Python Programming, Data Mining, and Modern Software Engineering. My technical skills include proficiency in languages such as `` Python `` and `` SQL ``, and expertise in data science frameworks such as `` Scikit-learn ``, `` Pytorch ``, `` fastai ``, `` TensorFlow ``, `` Keras ``, and `` Django ``. I am also familiar with tools like `` Azure Databricks ``, `` AWS SageMaker ``, `` Jupyter ``, `` GIT ``, `` MySQL ``, and `` SQLite ``. My areas of interest include Data Science, Computer Vision, and Image Processing. </span> 
 
 ***
+# Professional Experience
+
+As a Data Scientist at IMI SoftChannel Pvt Ltd Hyderabad, India, I developed and designed content for a Data Science Learning Management System, utilizing techniques such as web scraping, data cleaning, and data manipulation. I also implemented a code to download all videos, pdf, data files and markdown by one click using libraries like urllib, BeautifulSoup, Requests, Selenium, and re(Regular Expressions). In my projects, I demonstrated my data handling skills by generating insights through racing bar charts and visualizing performance data from the ESPN website. I also created a Check Truncation System using OpenCV, Pillow, and Pytesseract to detect MICR codes in checks.
 
 # Online Courses - [My DataCamp Profile](https://www.datacamp.com/profile/musirikasrinivas)
 ![image](https://user-images.githubusercontent.com/43592400/95502107-f1cf4780-09c6-11eb-9acd-d4791bf1e492.png)
